@@ -13,6 +13,9 @@ The future of this project is unclear.
 **Q:** How do I stop the script?  
 **A:** Press 0 on your NumPad or right click the AHK symbol in the bottom right of your screen and click exit.
 
+**Q:** There is no "Run as Administrator" option. What program do I open it in?  
+**A:** Install AutoHotKey first.
+
 **Q:** Can I run this on MacOS or Linux?  
 **A:** No.
 
